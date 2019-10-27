@@ -5,7 +5,7 @@ bananas
 yogurt
 milk
 cereal
-eggs
+dozen eggs
 bacon
 orange juice
 grapes
