@@ -9,7 +9,7 @@ eggs
 orange juice
 grapes
 lemons
-lettuce
+1 head lettuce
 buckwheat
 soup
 venison
