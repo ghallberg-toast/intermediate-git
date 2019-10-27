@@ -1,7 +1,6 @@
 Shopping List
 
 apples
-bananas
 yogurt
 oat milk
 cereal
@@ -11,7 +10,7 @@ orange juice
 grapes
 lemons
 lettuce
-lambchops
+buckwheat
 soup
 butter
 coffee
