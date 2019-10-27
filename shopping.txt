@@ -1,7 +1,7 @@
 Shopping List
 
-apples
-yogurt
+3 red apples
+vanilla yogurt
 oat milk
 cereal
 dozen eggs
