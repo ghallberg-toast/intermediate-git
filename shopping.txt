@@ -1,7 +1,6 @@
 Shopping List
 
 apples
-bananas
 yogurt
 milk
 cereal
@@ -11,6 +10,6 @@ orange juice
 grapes
 lemons
 lettuce
-stinkweed
+buckwheat
 soup
 venison
