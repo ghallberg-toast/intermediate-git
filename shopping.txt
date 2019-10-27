@@ -1,6 +1,7 @@
 Shopping List
 
 apples
+bananas
 yogurt
 milk
 bread
