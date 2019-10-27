@@ -2,9 +2,9 @@ Shopping List
 
 apples
 yogurt
-milk
+2% milk
 cereal
-eggs
+12 eggs
 1 pound bacon
 orange juice
 grapes
