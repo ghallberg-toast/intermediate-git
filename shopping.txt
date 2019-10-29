@@ -3,7 +3,7 @@ Shopping List
 3 red apples
 vanilla yogurt
 oat milk
-cereal
+cheese
 dozen eggs
 bacon
 orange juice
@@ -12,7 +12,7 @@ lemons
 limes
 lettuce
 buckwheat
-soup
+chowder
 butter
 coffee
 ginger
