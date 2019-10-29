@@ -4,7 +4,7 @@ Shopping List
 vanilla yogurt
 oat milk
 cheese
-dozen eggs
+6 eggs
 bacon
 orange juice
 grapes
